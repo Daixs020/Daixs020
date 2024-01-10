@@ -3,7 +3,7 @@
 
 Blog：<a href="https://blog.csdn.net/qq_41913447"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
 
-我的线上域名：www.php1314.cn
+我的线上域名：kf.php1314.cn
 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
