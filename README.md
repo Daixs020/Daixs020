@@ -1,10 +1,9 @@
-### Hi there👋
 
-一个PHP
+一个PHPer
 
-<a href="https://blog.csdn.net/qq_41913447"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daixs020&layout=compact)
+Blog：<a href="https://blog.csdn.net/qq_41913447"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
+
+我的线上域名：www.php1314.cn
 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -14,4 +13,4 @@
 
 后端：Thinkphp Hyperf Workerman Laravel
 
-前端：Vue Jquery uniapp 原生微信小程序 
+前端：Vue Jquery Uniapp 原生微信小程序 
